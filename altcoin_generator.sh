@@ -14,7 +14,7 @@
 # CHAIN variable below
 
 # change the following variables to match your new coin
-COIN_NAME="Costi Coin"
+COIN_NAME="CostiCoin"
 COIN_UNIT="CC"
 # 42 million coins at total (litecoin total supply is 84000000)
 TOTAL_SUPPLY=42000000
